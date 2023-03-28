@@ -1,3 +1,4 @@
+
 import random
 
 question = input('Choose a game mode? Guess by user (U) or computer (C)? ').lower()
@@ -36,7 +37,4 @@ if question == "u":
 elif question == "c":
     print("Think about the number.")
     computer_guess(10)
-    
-    
-    
     
