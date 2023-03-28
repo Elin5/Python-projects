@@ -36,3 +36,7 @@ if question == "u":
 elif question == "c":
     print("Think about the number.")
     computer_guess(10)
+    
+    
+    
+    
